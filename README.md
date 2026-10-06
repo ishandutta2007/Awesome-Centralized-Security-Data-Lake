@@ -125,7 +125,7 @@ Contributions are welcome! Follow these steps to submit new security data lake p
 
 ## 📊 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Centralized-Security-Data-Lake&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Centralized-Security-Data-Lake&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Centralized-Security-Data-Lake&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Centralized-Security-Data-Lake&type=date&legend=top-left)
 
 ---
 
