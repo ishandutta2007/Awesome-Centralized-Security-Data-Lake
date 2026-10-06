@@ -66,7 +66,7 @@ The market has bifurcated between cloud-native platforms that separate storage f
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) ⚡  
   **Ultra-fast, open-source search engine**, MIT licensed. **~59.5k+ stars**. Rust-based, light-weight search engine designed for instant query performance and log indexing in security analytics dashboards. 🔎
